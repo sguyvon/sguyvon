@@ -12,10 +12,10 @@ I'm a bioinformatics graduate with a strong foundation in microbiology and immun
 🔒 Cybersecurity
 
 🛠 **Skills** \
-Programming Languages: Python, R, Bash, SQL
-Data Analysis: GWAS, statistical modeling, data visualization 
-Development Tools: Git, GitHub, RStudio, Jupyter Notebooks
-Standards: HL7 FHIR, SNOMED, ADaM
+Programming Languages: Python, R, Bash, SQL \
+Data Analysis: GWAS, statistical modeling, data visualisation \ 
+Development Tools: Git, GitHub, RStudio, Jupyter Notebooks \
+Standards: HL7 FHIR, SNOMED, ADaM \
 Other: Experience with HPC environments 
 
 🔬 **Research Projects**
