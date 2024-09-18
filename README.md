@@ -2,9 +2,7 @@
 Bioinformatics Master's Graduate | Microbiology Enthusiast | Digital Health Advocate
 
 🧬 **About Me**
-I'm a bioinformatics graduate with a strong foundation in microbiology and immunology. My academic journey and professional experiences have equipped me with diverse skills in genomics, data analysis, and coding. My primary focus is understanding the role of genetic variants in disease susceptibility, particularly infectious diseases like Typhoid fever, using techniques like GWAS and meta-analysis.
-
-I'm passionate about bridging the gap between healthcare and technology through digital health solutions, improving communication and patient outcomes. I'm currently working on a digital health app, HealthSync, aimed at enhancing patient-provider communication.
+I'm a bioinformatics graduate with a strong foundation in microbiology and immunology. My academic journey and professional experiences have equipped me with diverse skills in genomics, data analysis, and coding. My primary focus is understanding the role of genetic variants in disease susceptibility, particularly infectious diseases like Typhoid fever, using techniques like GWAS and meta-analysis. I am passionate about combining both wet lab and dry lab skills in genomics, giving me a comprehensive approach to understanding genetic data and its biological implications.
 
 **Current Interests:** \
 🧬 Genomics and GWAS \
