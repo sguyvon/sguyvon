@@ -8,7 +8,7 @@ I'm a bioinformatics graduate with a strong foundation in microbiology and immun
 🧬 Genomics and GWAS \
 🩺 Digital health applications \
 🌱 Sustainable food systems \
-🌍 Infectious disease research and public health 
+🌍 Infectious disease research and public health \
 🔒 Cybersecurity
 
 🛠 **Skills** \
