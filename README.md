@@ -1,7 +1,7 @@
 👋 **Hi, I'm Seb Guy-von Stieglitz** \
 Bioinformatics Master's Graduate | Microbiology Enthusiast | Digital Health Advocate
 
-🧬 **About Me**
+🧬 **About Me** \
 I'm a bioinformatics graduate with a strong foundation in microbiology and immunology. My academic journey and professional experiences have equipped me with diverse skills in genomics, data analysis, and coding. My primary focus is understanding the role of genetic variants in disease susceptibility, particularly infectious diseases like Typhoid fever, using techniques like GWAS and meta-analysis. I am passionate about combining both wet lab and dry lab skills in genomics, giving me a comprehensive approach to understanding genetic data and its biological implications.
 
 **Current Interests:** \
