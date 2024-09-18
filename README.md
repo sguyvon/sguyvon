@@ -21,7 +21,7 @@ Other: Experience with HPC environments
 🔬 **Research Projects**
 GWAS for Typhoid Fever Susceptibility
 
-📫 How to Reach Me
+📫 How to Reach Me \
 **Email**: sguyvon@gmail.com \
 **Student Email**: sguyvonstieg@student.unimelb.edu.au \
 **LinkedIn**: https://www.linkedin.com/in/sguyvon123/ \
