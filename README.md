@@ -24,7 +24,7 @@ GWAS for Typhoid Fever Susceptibility
 📫 **How to Reach Me** \
 Email: sguyvon@gmail.com \
 Student Email: sguyvonstieg@student.unimelb.edu.au \
-LinkedIn: https://www.linkedin.com/in/sguyvon123/ \
+LinkedIn: https://www.linkedin.com/in/sguyvon123/ 
 <!---
 sguyvon/sguyvon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
